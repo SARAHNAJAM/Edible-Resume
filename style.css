@@ -1,0 +1,12 @@
+.editable-section {
+    border: 1px solid #ddd;
+    padding: 8px;
+    min-height: 50px;
+    background-color: #f9f9f9;
+    cursor: text;
+}
+
+.editable-section:focus {
+    outline: none;
+    border-color: #4CAF50;
+}
